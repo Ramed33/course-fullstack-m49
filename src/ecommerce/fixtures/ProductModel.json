@@ -1,0 +1,1542 @@
+[
+{
+    "model": "ecommerce.productmodel",
+    "pk": 1,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T01:05:12.080Z",
+        "updated": "2024-10-18T01:05:12.088Z",
+        "publish_timestamp": null,
+        "title": "Laptop",
+        "price": 20000.0,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 4,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T01:05:12.080Z",
+        "updated": "2024-10-18T01:05:12.088Z",
+        "publish_timestamp": null,
+        "title": "Silla gamer",
+        "price": 8000.0,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 5,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T01:05:12.080Z",
+        "updated": "2024-10-18T01:05:12.088Z",
+        "publish_timestamp": null,
+        "title": "Escritorio con altura ajustable",
+        "price": 10000.0,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 6,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T01:05:12.080Z",
+        "updated": "2024-10-18T01:05:12.088Z",
+        "publish_timestamp": null,
+        "title": "Soporte para audífonos",
+        "price": 500.0,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 12,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T01:05:12.080Z",
+        "updated": "2024-10-18T01:05:12.088Z",
+        "publish_timestamp": null,
+        "title": "Laptop gamer",
+        "price": 50000.0,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 13,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T01:05:12.080Z",
+        "updated": "2024-10-18T01:05:12.088Z",
+        "publish_timestamp": null,
+        "title": "Laptop macbook air",
+        "price": 30000.0,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 15,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T01:05:12.080Z",
+        "updated": "2024-10-18T01:05:12.088Z",
+        "publish_timestamp": null,
+        "title": "Producto 2",
+        "price": 549.99,
+        "description": "Es una prueba",
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 16,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 1",
+        "price": 199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 17,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 2",
+        "price": 299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 18,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 3",
+        "price": 399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 19,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 4",
+        "price": 499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 20,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 5",
+        "price": 599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 21,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 6",
+        "price": 699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 22,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 7",
+        "price": 799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 23,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 8",
+        "price": 899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 24,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 9",
+        "price": 999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 25,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 10",
+        "price": 1099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 26,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 11",
+        "price": 1199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 27,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 12",
+        "price": 1299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 28,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 13",
+        "price": 1399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 29,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 14",
+        "price": 1499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 30,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 15",
+        "price": 1599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 31,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 16",
+        "price": 1699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 32,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 17",
+        "price": 1799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 33,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 18",
+        "price": 1899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 34,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 19",
+        "price": 1999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 35,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.534Z",
+        "updated": "2024-10-18T16:33:01.534Z",
+        "publish_timestamp": null,
+        "title": "Producto 20",
+        "price": 2099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 36,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 21",
+        "price": 2199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 37,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 22",
+        "price": 2299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 38,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 23",
+        "price": 2399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 39,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 24",
+        "price": 2499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 40,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 25",
+        "price": 2599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 41,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 26",
+        "price": 2699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 42,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 27",
+        "price": 2799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 43,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 28",
+        "price": 2899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 44,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 29",
+        "price": 2999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 45,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 30",
+        "price": 3099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 46,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 31",
+        "price": 3199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 47,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 32",
+        "price": 3299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 48,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 33",
+        "price": 3399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 49,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 34",
+        "price": 3499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 50,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 35",
+        "price": 3599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 51,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 36",
+        "price": 3699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 52,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 37",
+        "price": 3799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 53,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 38",
+        "price": 3899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 54,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 39",
+        "price": 3999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 55,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 40",
+        "price": 4099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 56,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 41",
+        "price": 4199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 57,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 42",
+        "price": 4299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 58,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 43",
+        "price": 4399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 59,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 44",
+        "price": 4499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 60,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 45",
+        "price": 4599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 61,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 46",
+        "price": 4699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 62,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 47",
+        "price": 4799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 63,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 48",
+        "price": 4899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 64,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 49",
+        "price": 4999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 65,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 50",
+        "price": 5099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 66,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 51",
+        "price": 5199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 67,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 52",
+        "price": 5299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 68,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 53",
+        "price": 5399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 69,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 54",
+        "price": 5499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 70,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.535Z",
+        "publish_timestamp": null,
+        "title": "Producto 55",
+        "price": 5599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 71,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.535Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 56",
+        "price": 5699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 72,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 57",
+        "price": 5799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 73,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 58",
+        "price": 5899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 74,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 59",
+        "price": 5999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 75,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 60",
+        "price": 6099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 76,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 61",
+        "price": 6199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 77,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 62",
+        "price": 6299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 78,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 63",
+        "price": 6399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 79,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 64",
+        "price": 6499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 80,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 65",
+        "price": 6599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 81,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 66",
+        "price": 6699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 82,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 67",
+        "price": 6799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 83,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 68",
+        "price": 6899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 84,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 69",
+        "price": 6999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 85,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 70",
+        "price": 7099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 86,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 71",
+        "price": 7199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 87,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 72",
+        "price": 7299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 88,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 73",
+        "price": 7399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 89,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 74",
+        "price": 7499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 90,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 75",
+        "price": 7599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 91,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 76",
+        "price": 7699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 92,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 77",
+        "price": 7799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 93,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 78",
+        "price": 7899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 94,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 79",
+        "price": 7999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 95,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 80",
+        "price": 8099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 96,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 81",
+        "price": 8199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 97,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 82",
+        "price": 8299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 98,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 83",
+        "price": 8399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 99,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 84",
+        "price": 8499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 100,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 85",
+        "price": 8599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 101,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 86",
+        "price": 8699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 102,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 87",
+        "price": 8799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 103,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 88",
+        "price": 8899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 104,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 89",
+        "price": 8999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 105,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 90",
+        "price": 9099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 106,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 91",
+        "price": 9199.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 107,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 92",
+        "price": 9299.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 108,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 93",
+        "price": 9399.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 109,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.536Z",
+        "publish_timestamp": null,
+        "title": "Producto 94",
+        "price": 9499.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 110,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.536Z",
+        "updated": "2024-10-18T16:33:01.537Z",
+        "publish_timestamp": null,
+        "title": "Producto 95",
+        "price": 9599.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 111,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.537Z",
+        "updated": "2024-10-18T16:33:01.537Z",
+        "publish_timestamp": null,
+        "title": "Producto 96",
+        "price": 9699.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 112,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.537Z",
+        "updated": "2024-10-18T16:33:01.537Z",
+        "publish_timestamp": null,
+        "title": "Producto 97",
+        "price": 9799.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 113,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.537Z",
+        "updated": "2024-10-18T16:33:01.537Z",
+        "publish_timestamp": null,
+        "title": "Producto 98",
+        "price": 9899.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 114,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.537Z",
+        "updated": "2024-10-18T16:33:01.537Z",
+        "publish_timestamp": null,
+        "title": "Producto 99",
+        "price": 9999.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 115,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-18T16:33:01.537Z",
+        "updated": "2024-10-18T16:33:01.537Z",
+        "publish_timestamp": null,
+        "title": "Producto 100",
+        "price": 10099.9,
+        "description": null,
+        "slug": null
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 116,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-19T04:04:34.430Z",
+        "updated": "2024-10-19T04:04:34.430Z",
+        "publish_timestamp": null,
+        "title": "Producto test slug",
+        "price": 199.99,
+        "description": null,
+        "slug": "producto-test-slug"
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 117,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-19T04:14:47.381Z",
+        "updated": "2024-10-19T04:14:47.381Z",
+        "publish_timestamp": null,
+        "title": "Producto test slug",
+        "price": 199.99,
+        "description": null,
+        "slug": "producto-test-slug-1"
+    }
+},
+{
+    "model": "ecommerce.productmodel",
+    "pk": 118,
+    "fields": {
+        "state": "BR",
+        "timestamp": "2024-10-19T04:15:27.094Z",
+        "updated": "2024-10-19T04:15:27.094Z",
+        "publish_timestamp": null,
+        "title": "Producto test slug",
+        "price": 199.99,
+        "description": null,
+        "slug": "producto-test-slug-2"
+    }
+}
+]
